@@ -1,4 +1,4 @@
-# Forza Horizon 6 - Osobní fanouškovský web
+# Forza Horizon 6 - Osobní  web
 
 Vítejte v mém repozitáři věnovaném mé oblíbené závodní sérii **Forza Horizon 6**! Tento projekt slouží k procvičení práce s Gitem, Markdownem a strukturováním souborů na GitHubu.
 
